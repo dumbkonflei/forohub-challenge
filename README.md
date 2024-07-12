@@ -26,6 +26,7 @@ git clone https://github.com/dumbkonflei/forohub-challenge.git
 spring.datasource.url=jdbc:postgresql://${DB_HOST}/${DB_NAME}
 spring.datasource.username=${DB_USERNAME}
 spring.datasource.password=${DB_PASS}
+spring.datasource.driver-class-name=org.postgresql.Driver
    ```
 * Compila y ejecuta la aplicación.
 
