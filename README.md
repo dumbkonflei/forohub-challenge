@@ -3,7 +3,7 @@
    </p>
    
    # Forohub-Challenge
-     Bienvenidos sean todos a este nuevo desafío de programación, Forohub. En donde aprendi persistencia de datos, seguridad, autenticar y autorizar request, crear tablas en una base de datos, metodos POST, GET, DELETE, PUT y crear mi propia API.
+   Bienvenidos sean todos a este nuevo desafío de programación, Forohub. En donde aprendi persistencia de datos, seguridad, autenticar y autorizar request, crear tablas en una base de datos, metodos POST, GET, DELETE, PUT y crear mi propia API.
 
 # Descripción
 
@@ -34,7 +34,7 @@ spring.datasource.password=${DB_PASS}
 * Utilice herramientas como Insomnia para probar los endpoints e interactuar con la API.
 
 # Licensia
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+ [MIT](https://choosealicense.com/licenses/mit/#)
 
 
 # Tecnologias Usadas
