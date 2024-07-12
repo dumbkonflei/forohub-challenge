@@ -34,7 +34,7 @@ spring.datasource.driver-class-name=org.postgresql.Driver
 * Acceda a Swagger UI en http://localhost:8080/swagger-ui/index.html#/ para la documentación de la API.
 * Utilice herramientas como Insomnia para probar los endpoints e interactuar con la API.
 
-# Licensia
+# Licencia
  [MIT](https://choosealicense.com/licenses/mit/#)
 
 
